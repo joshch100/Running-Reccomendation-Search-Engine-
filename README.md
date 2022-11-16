@@ -1,2 +1,2 @@
-# Running-Reccomendation-Search-Engine-
+# Running-Reccomendation-Search-Engine
 SI 650 Search Engine Project
